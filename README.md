@@ -35,10 +35,10 @@ Ez az alkalmazás egy repülőtér irányítótornyának munkáját szimulálja,
 
 ## Adatbázisok
 
-Az alkalmazás dBASE formátumú táblázatokat használ:
-- **MENETREND.DBF** - Induló járatok menetrendje
-- **ERKEZO.DBF** - Érkező járatok adatai
-- **UTEMEZO.DBF** - Futási idejű ütemező tábla (prioritás alapú rendezéssel)
+Az alkalmazás dBASE formátumú táblázatokat használ (Sources/Adatok):
+- **menrend.DBF** - Induló járatok menetrendje
+- **erkezo.DBF** - Érkező járatok adatai
+- **utemezo.DBF** - Futási idejű ütemező tábla (prioritás alapú rendezéssel)
 
 ## Követelmények
 
